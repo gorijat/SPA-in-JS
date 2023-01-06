@@ -1,0 +1,4 @@
+-Prvo napravio 2 view, account i add account
+-pa funkcionalnost dugmetu addaccount da sacuva novi
+-onda napravio dugmice za brisanje i editovanje i dao funkcionalnost
+-a onda sve to cuvam u local storage
